@@ -6,42 +6,54 @@ permalink: /about/
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/Janmejay_bhoi">
-  <img align="left" alt="Janmejay Bhoi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/janmejaybhoi/">
-  <img align="left" alt="Janmejay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/31ji2nxgvdbm77spbzspwzvooxia">
-  <img align="left" alt="Janmejay's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-
-hi, i'm **Janmejay Bhoi**, a passionate self-taught and aspiring for Data Science job roles from india. my passion for Data Science/AI lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm **Janmejay Bhoi**, a passionate self-taught and aspiring for Data Science job roles from Odisha, India. My passion for Data Science/AI lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Currently i'm focusing on Machine Learning and Natural Language Processing. I am also an open-source enthusiast and maintainer.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:janmejaybhoi@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+## Education:
+- Veer Surendra Sai University Of Technology,  Burla,Odisha (Aug 2016- Sep 2020)
+- Jupiter Science College, Bhubaneswar,Odisha (May 2013- June 2015)
 
-**languages and tools:**  
+## Timeline:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+- Natural Language Processing Intern (July 2021 – Sep 2021)
+- Data Analyst Intern, National Aluminium Company Limited (May 2019 – June 2019)
+
+
+## Skills:
+
+### Languages -
+- Python, C++ 
+
+### Database -
+- SQL, Spark
+
+### Machine Learning -
+- Regression And Classification
+- Ensembel Learning (Bagging & Boosting)
+- Exploratory data analysis 
+- Dimensionality Reduction
+- Clusteing
+- Statistical Analysis
+
+### Deep Learning (NLP) -
+- Text Mining
+- Sentiment Analysis
+- Text Summarization 
+- Named Entity Recognition
+- LSTM, GRU, Conv1D
+- Transformers
+- Embedding
+
+### Libraries -
+- Numpy, Pandas
+- NLTK, SpaCy
+- Stats Model
+- Hugging face
+- TenssorFlow, PyTorch
+- Scikit Learn
+- FastText
+- TextHero
 
 
 
